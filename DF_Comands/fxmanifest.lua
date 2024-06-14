@@ -1,4 +1,4 @@
-author 'DF SCRIPTS | https://discord.com/invite/sGD8Vt2avR'
+author 'DF SCRIPTS | '
 version '1.0'
 description 'DF SCRIPTS'
 
