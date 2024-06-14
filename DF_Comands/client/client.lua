@@ -213,7 +213,7 @@ end)
 
 ----------------------------------------------------------
 ----------------------------------------------------------
--- Função para desenhar texto 3D
+--  
 function DrawText3D(x, y, z, text, color)
     local onScreen, _x, _y = GetScreenCoordFromWorldCoord(x, y, z)
     local px, py, pz = table.unpack(GetGameplayCamCoord())  
